@@ -1,0 +1,22 @@
+1) Credential Success
+2) Project term Success
+3) Next button Success
+4) Job title Success
+5) Next button Success
+6) Skill1 Success
+7) Skill2 Success
+8) Skill3 Success
+9) Next button Success
+10) Duration Success
+11) Difficulty Success
+12) Contract-to-hire-field Success
+13) Next button Success
+14) Worldwide Success
+15) Next button(Hourly Rate Page) Success
+16) Next button Success
+17) Job Description Success
+18) Next button Success
+19) Post button Success
+
+
+---------------->This job was posted successfully<----------------
